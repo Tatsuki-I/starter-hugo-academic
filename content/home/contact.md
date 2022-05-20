@@ -19,7 +19,7 @@ content:
   form:
     provider: formspree
     formspree:
-      id: tatsuki@ist.hokudai.ac.jp
+      id: https://formspree.io/f/myyolrkg
       # Enable CAPTCHA challenge to reduce spam?
       # captcha: true
 
