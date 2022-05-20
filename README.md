@@ -1,4 +1,4 @@
-[![.github/workflows/hugo-deploy.yml](https://github.com/Tatsuki-I/starter-hugo-academic/actions/workflows/hugo-deploy.yml/badge.svg)](https://github.com/Tatsuki-I/starter-hugo-academic/actions/workflows/hugo-deploy.yml)
+[![GitHub Pages](https://github.com/Tatsuki-I/starter-hugo-academic/actions/workflows/GitHubPages.yml/badge.svg)](https://github.com/Tatsuki-I/starter-hugo-academic/actions/workflows/GitHubPages.yml)
 
 
 # [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
