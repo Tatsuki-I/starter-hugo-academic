@@ -28,6 +28,6 @@ jobs:
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./public
-          publish_branch: master  # deploying branch
+          publish_branch: main  # deploying branch
           allow_empty_commit: true
           external_repository: Tatsuki-I/Tatsuki-I.github.io
