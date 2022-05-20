@@ -1,3 +1,6 @@
+[![.github/workflows/hugo-deploy.yml](https://github.com/Tatsuki-I/starter-hugo-academic/actions/workflows/hugo-deploy.yml/badge.svg)](https://github.com/Tatsuki-I/starter-hugo-academic/actions/workflows/hugo-deploy.yml)
+
+
 # [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
