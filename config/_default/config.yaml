@@ -3,17 +3,24 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Tatsuki IKEDA # Website name
+baseURL: 'https://tatsuki-i.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
-hasCJKLanguage: false
+defaultContentLanguage: "ja"
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
+languages:
+  ja:
+    title: 日本語版
+    weight: 1
+  en:
+    title: English Version
+    weight: 2
 
 ############################
 ## MODULES

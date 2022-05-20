@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Tatsuki IKEDA. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -63,6 +63,8 @@ features:
   syntax_highlighter:
     enable: true
     extra_languages:
+      - python
+      - haskell
       - r
       - latex
   math:
@@ -74,7 +76,7 @@ features:
     content_dir: content
     branch: master
   avatar:
-    gravatar: false
+    gravatar: true
     shape: circle
   comment:
     provider: ''
