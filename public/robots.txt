@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://tatsuki-i.github.io/sitemap.xml
