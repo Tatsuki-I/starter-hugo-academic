@@ -17,12 +17,11 @@ content:
 
   # Email form provider
   form:
-    provider: netlify
+    provider: formspree
     formspree:
-      id:
-    netlify:
+      id: tatsuki@ist.hokudai.ac.jp
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+      # captcha: true
 
   # Contact details (edit or remove options as required)
   email: tatsuki@ist.hokudai.ac.jp
