@@ -19,7 +19,7 @@ content:
   form:
     provider: formspree
     formspree:
-      id: https://formspree.io/f/myyolrkg
+      id: myyolrkg
       # Enable CAPTCHA challenge to reduce spam?
       # captcha: true
 
