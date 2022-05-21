@@ -28,7 +28,7 @@ education:
     - course: 情報科学院 情報科学研究科 情報理工学専攻 修士課程 入学
       institution: 北海道大学
       year: 2022
-    - course: 経営学部経営学科 情報コース卒業 学士(経営)
+    - course: 経営学部経営学科 情報コース卒業 学士(経営学)
       institution: 松山大学
       year: 2022
     - course: 普通科卒業
