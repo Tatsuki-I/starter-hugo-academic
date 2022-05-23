@@ -81,7 +81,7 @@ features:
   comment:
     provider: ''
     disqus:
-      shortname: ''
+      shortname: 'tatsuki'
       show_count: true
     commento:
       url: ''
