@@ -17,9 +17,10 @@ content:
 
   # Email form provider
   form:
-    provider: formspree
-    formspree:
-      id: myyolrkg
+    provider: netlify
+#    provider: formspree
+#    formspree:
+#      id: myyolrkg
       # Enable CAPTCHA challenge to reduce spam?
       # captcha: true
 
