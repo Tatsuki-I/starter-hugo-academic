@@ -18,6 +18,9 @@ content:
   # Email form provider
   form:
     provider: netlify
+    netlify:
+      captcha: true
+#    provider: formspree
 #    provider: formspree
 #    formspree:
 #      id: myyolrkg
