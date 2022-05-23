@@ -61,6 +61,15 @@ experience:
     date_end: '2017-03-31'
     description: 情報工学部 知能情報工学科
 
+  - title: 卒業
+    company: 松山西松山西中等教育学校
+    company_url: 'https://matsuyamanishi-s.esnet.ed.jp/'
+    company_logo: matsuyama-nishi
+    location: 愛媛
+    date_start: '2009-04-01'
+    date_end: '2015-03-31'
+    description: 中高一貫校 普通科
+
 design:
   columns: '2'
 ---

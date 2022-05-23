@@ -24,7 +24,7 @@ content:
       # captcha: true
 
   # Contact details (edit or remove options as required)
-  email: tatsuki@ist.hokudai.ac.jp
+  # email: mail@example.com
 
 design:
   columns: '2'

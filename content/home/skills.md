@@ -19,11 +19,19 @@ feature:
   - description: 90%
     icon: vim
     icon_pack: custom
-    name: R
+    name: Vim
   - description: 100%
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
+    icon: haskell
+    icon_pack: custom
+    name: Haskell
+  - description: 100%
+    icon: redhat
+    icon_pack: custom
+    name: RedHat Enterprise Linux
+  - description: 100%
+    icon: fedora
+    icon_pack: custom
+    name: Fedora
   - description: 10%
     icon: camera-retro
     icon_pack: fas

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: テスト中
+title: 池田 樹生
 
 # Is this the primary user of the site?
 superuser: true
