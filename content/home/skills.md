@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: 90%
     icon: vim
-    icon_pack: icon
+    icon_pack: custom
     name: R
   - description: 100%
     icon: chart-line
