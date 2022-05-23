@@ -1,11 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "本当に最低限のvimrc入門"
+title: "本当に最低限のvimrc入門 #vim"
 subtitle: ""
 summary: ""
 authors: []
-tags: []
+tags: 
+  - 'Vim'
+  - 'vimrc'
+  - '新人vimmer応援'
 categories: []
 date: 2016-12-17T18:24:53+09:00
 lastmod: 2022-05-23T18:24:53+09:00
