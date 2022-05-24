@@ -7,7 +7,8 @@ authors:
   - admin
 tags: 
   - '擬似乱数生成器'
-  - "Haskell"
+  - 'Haskell'
+  - 'PRNG'
 categories: []
 date: 2022-01-11T19:55:20+09:00
 

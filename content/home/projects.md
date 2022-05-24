@@ -27,8 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
+    - name: 深層学習
       tag: Deep Learning
+    - name: 擬似乱数生成器
+      tag: PRNG
     - name: Other
       tag: Demo
 
@@ -41,7 +43,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
