@@ -1,8 +1,8 @@
 ---
 title: "本当に最低限のvimrc入門 #vim"
 subtitle: ""
-date: 2016-12-17T18:24:53+09:00
-summary: ""
+date: 2016-12-16T15:00:00.000Z
+summary: Vimの最低限の使い方と、設定ファイルvimrcの最低限の設定方法です。
 draft: false
 featured: false
 authors:
@@ -19,8 +19,6 @@ image:
   focal_point: ""
   preview_only: false
 ---
-# 本当に最低限のVim入門
-
 この記事は[Vim Advent Calendar 2016](http://qiita.com/advent-calendar/2016/vim)の17日目の記事です. 
 
 先日は[todashuta](http://qiita.com/todashuta)さんで, [Vim 8で便利になった組み込みMRU](http://qiita.com/todashuta/items/1362654c6276e5b69abc)でした. こんな便利な機能があったんですね(無知ですみません...).
