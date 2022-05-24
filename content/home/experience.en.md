@@ -25,7 +25,7 @@ experience:
   - title: Master course
     company: Hokkaido University Graduate School
     company_url: 'https://www.hokudai.ac.jp/'
-    company_logo: hokudai
+    company_logo: hokudai-en
     location: Hokkaido
     date_start: '2022-04-01'
     date_end: ''

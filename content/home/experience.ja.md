@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: 2006年 Jan
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -25,7 +25,7 @@ experience:
   - title: 修士課程
     company: 北海道大学大学院
     company_url: 'https://www.hokudai.ac.jp/'
-    company_logo: hokudai
+    company_logo: hokudai-jp
     location: 北海道
     date_start: '2022-04-01'
     date_end: ''
